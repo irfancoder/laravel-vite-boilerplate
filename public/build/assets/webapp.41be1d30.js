@@ -1,0 +1,1 @@
+import{n as r}from"./server.906df5e1.js";var o=function(){var e=this,t=e.$createElement,_=e._self._c||t;return _("div",{staticClass:"text-blue-500"},[e._v("Hi")])},s=[];const c={},n={};var a=r(c,o,s,!1,l,"50c78fcc",null,null);function l(e){for(let t in n)this[t]=n[t]}var i=function(){return a.exports}();export{i as default};
